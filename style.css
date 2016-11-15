@@ -1,0 +1,95 @@
+li {
+  font-size: 19px;
+  text-align: center;
+  background-color: gainsboro;
+  height: 30px;
+}
+
+#img {
+  float:left;
+  width:4%;
+  border-radius: 50%;
+}
+
+#search{
+  float:left;
+  height:23px;
+}
+
+#ava {
+  float:right;
+  width:2%;
+}
+
+#dashed {
+  float: left;
+  height: 250px;
+  width: 600px;
+  border-style: dashed;
+  padding: 15px;
+}
+
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#button {
+  float:left;
+  width: 200px;
+  height: 30px;
+}
+
+
+#img1 {
+  width:25%;
+  float:left;
+  float:;
+}
+
+#other_table {
+  float:right;
+  height: 600px;
+  width: 350px;
+  border-style: solid;
+  padding-bottom: 5em;
+}
+
+th {
+  float:center;
+  margin: 10px;
+  height: 25px
+}
+
+#search2 {
+  float:center;
+  width: 400px;
+}
+
+#repositories {
+  width: 400px;
+  height:0px;
+}
+
+#button_repository {
+  float: right;
+  width: 200px;
+  height: 30px;
+  margin-right: 18px;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+td {
+  font-size: 120%;
+}
+
+#repo {
+   width:15%;
+  float:left
+}
