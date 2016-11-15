@@ -1,0 +1,42 @@
+h1 {
+  text-align:right;
+  text-color:black;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+a:link, a:visited {
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+body {
+  background-image: url(http://shuzhong.biz/wp-content/uploads/office_background_wallpaper_135_1920_1080.jpeg);
+  text-align:center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+#developer {
+position: fixed; /* or absolute */
+  top: 40%;
+  left: 50%;
+   font-size: 33px;
+}
